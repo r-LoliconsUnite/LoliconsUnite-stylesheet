@@ -29,6 +29,8 @@
 		- Fixed RES night mode buttons color
 		- Fixed removed comments red background in night mode
 		- Fixed text indent of new messages notification
+		- Fixed rules page background margins
+		- Make post bottom border less noticable in dark mode
 		
 --------------------------------------------------------------------------*/
 
@@ -376,6 +378,13 @@ body .content .over18 .entry .buttons li.reported-stamp {
 .flat-list li a.gold {color: gold;}
 
 /*MODERATOR END*/
+
+.modtools-page > div.content {
+	margin-right: 335px;
+	margin-bottom: 10px;
+	margin-left: 16px;
+	margin-top: 15px
+}
 
 .tabpane-content {border: none;}
 
@@ -1122,6 +1131,7 @@ div.commentarea div.RES-keyNav-activeElement .md {
 
 /*Body background*/
 body {background: #e6e6e8;}
+.res-nightmode body {background: #2F2F2F !important;}
 
 /*Expando no outline*/
 .entry.RES-keyNav-activeElement div.md, .commentarea .entry.RES-keyNav-activeElement div.noncollapsed, .entry.RES-keyNav-activeElement .usertext-body, .new-comment .usertext-body .md {
@@ -2570,7 +2580,7 @@ color.
 
 .res-nightmode .side .md h4 {background: #323232}
 
-.res-nightmode body:not(.comments-page) div.content .entry,.res-nightmode .md hr {border-bottom: 1px solid #666}
+.res-nightmode body:not(.comments-page) div.content .entry,.res-nightmode .md hr {border-bottom: 1px solid #474747}
 
 .res-nightmode .content .md a {color: #a4d11b !important}
 
