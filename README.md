@@ -12,7 +12,7 @@ Mostly fixing res-nightmode and base theme
 - Pink color scheme
 - Tab menu on bottom (hot, new, top, etc)
 - Restore stock userbar (that shows subreddits on the top)
-- Restore stock edit buttom (in the top right)
+- Restore stock edit bottom (in the top right)
 - Fixed comment box and options
 - Subscribe button on top of subscriber count
 - Fixed RES subscribe button in post (in night mode as well)
@@ -24,7 +24,7 @@ Mostly fixing res-nightmode and base theme
 - Fixed removed comments' red background in night mode
 - Fixed text indent of new messages notification
 - Fixed rules page background margins
-- Make post bottom border less noticable in dark mode
+- Make post bottom border less noticeable in dark mode
 
 # License
 The code is Unlicensed and in public domain
