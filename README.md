@@ -7,7 +7,7 @@
 - I have only basic knowledge of css and github. Please help us review the code!
 - Contact us using modmail or via discord (most reliable way)
 
-# Major changes:
+# Major changelog:
 Mostly fixing res-nightmode and base theme
 - Pink color scheme
 - Tab menu on bottom
@@ -22,6 +22,7 @@ Mostly fixing res-nightmode and base theme
 - Restored stock flair selector (fixed dark mode too)
 - Fixed RES night mode buttons color
 - Fixed removed comments red background in night mode
+- Fixed text indent of new messages notification
 
 # License
 The code is Unlicensed and in public domain
