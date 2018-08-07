@@ -31,6 +31,9 @@
 		- Fixed text indent of new messages notification
 		- Fixed rules page background margins
 		- Make post bottom border less noticable in dark mode
+		- Fixed flair alignment in search page
+		- Fixed search page in night mode
+		- Fixed blue button in search page in day mode only
 		
 --------------------------------------------------------------------------*/
 
@@ -2433,7 +2436,7 @@ color.
 /*SET ONE*/
 
 		/*DEFAULT COLOR*/
-
+		
 		.RESDashboardToggle.remove,.RESSubscriptionButton,.RESshortcutside.remove,.fancy-toggle-button .remove,.panestack-title a.title-button,.panestack-title a.title-button.gold,.side .titlebox .md h4 a,.sidecontentbox a.helplink,button,.commentarea .comment a.expand:hover
 
 		{background:#e86280}
@@ -2517,19 +2520,6 @@ color.
 
 .res-nightmode .nsfw-stamp {background: #FE728B;}
 
-.res-nightmode .combined-search-page .search-result-group .search-header-label,.res-nightmode .combined-search-page .search-result .search-result-body,.res-nightmode .combined-search-page .search-result .search-result-header .search-title,.res-nightmode .combined-search-page .search-result .search-result-footer .search-link,.res-nightmode .combined-search-page .search-result .search-result-meta,.res-nightmode .combined-search-page .search-result .search-score,.res-nightmode .combined-search-page .search-result .search-comments,.res-nightmode .combined-search-page .search-result-group .search-result-group-header {color: #2f2f2f}
-
-.res-nightmode .combined-search-page .search-result .search-expando.collapsed::before {background: transparent linear-gradient(to bottom,rgba(255,255,255,0) 0%,#444 100%) repeat scroll 0 0}
-
-.res-nightmode .combined-search-page .search-result .search-expando-button {color: #A4D11B}
-
-.res-nightmode .combined-search-page .search-result {border-bottom: 1px solid #666;}
-
-.res-nightmode .combined-search-page .search-result-group .search-result-group-header {
-	background: #222;
-	border-bottom: 1px solid #666;
-	border-top: 1px solid #666;
-}
 
 .res-nightmode .stickied a.title:link,.res-nightmode body:not(.comments-page) .stickied a.title:visited,.res-nightmode body:not(.comments-page) .stickied .link .tagline,.res-nightmode body:not(.comments-page) .stickied .tagline,.res-nightmode body:not(.comments-page) .stickied .entry .buttons li a,.res-nightmode body:not(.comments-page) .stickied .entry .buttons li + li,.res-nightmode body:not(.comments-page) .stickied .md p {color: #7ddc1f!important}
 
@@ -2623,6 +2613,7 @@ color.
 }
 
 
+.c-btn-primary {background-color: #e86280 !important; border:0 !important}
 .res-nightmode button {background-color: #e86280 !important; border:0 !important}
 
 .res-nightmode button:hover {background-color: #ed849c !important}
@@ -2912,11 +2903,14 @@ color: #FFF !important
     background: url(%%spritesheet-flair-final%%) no-repeat -9999px;
     border: 0;
     padding: 0;
+	float: left !important;
 }
 
+/*push down the three links so flair doesn't cover it*/
+.side .usertext {margin-top: 40px}
 
 .link .flair,.entry .tagline .flair {
-    float: left;
+    float: left !important;
     line-height: 40px;
     text-indent: 55px;
     color: #f20dad;
