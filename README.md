@@ -1,13 +1,11 @@
-# r/LoliconsUnite stylesheet
-https://www.reddit.com/r/loliconsunite/
+# [r/LoliconsUnite](https://www.reddit.com/r/loliconsunite/) stylesheet
 
-For internal mod testing purposes: https://www.reddit.com/r/LoliTest/ (might be privated)
+- For testing purposes (might be private sometimes): [r/LoliTest](https://www.reddit.com/r/LoliTest/)
+    - This code may appear in first r/LoliTest, then r/LoliconsUnite
+- Discord (use link in subreddit for most updated one): https://discord.gg/9C5Fbek
 
-https://discord.gg/9C5Fbek (Use subreddit for most updated link)
-
-I have only basic knowledge of css and github. Please help us review the code!
-
-Contact us using modmail or via discord (most reliable way)
+- I have only basic knowledge of css and github. Please help us review the code!
+- Contact us using modmail or via discord (most reliable way)
 
 # Major changes:
 Mostly fixing res-nightmode and base theme
@@ -25,5 +23,5 @@ Mostly fixing res-nightmode and base theme
 - Fixed RES night mode buttons color
 - Fixed removed comments red background in night mode
 
-## License
+# License
 The code is Unlicensed and in public domain
