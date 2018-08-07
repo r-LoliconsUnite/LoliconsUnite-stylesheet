@@ -25,6 +25,10 @@ Mostly fixing res-nightmode and base theme
 - Fixed text indent of new messages notification
 - Fixed rules page background margins
 - Make post bottom border less noticeable in dark mode
+- Fixed flair alignment in search page
+- Fixed search page in night mode
+- Fixed blue button in search page in day mode only
+
 
 # License
 The code is Unlicensed and in public domain
