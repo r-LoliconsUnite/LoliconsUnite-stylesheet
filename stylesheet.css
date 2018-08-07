@@ -28,6 +28,7 @@
 		- Restored stock flair selector (fixed dark mode too)
 		- Fixed RES night mode buttons color
 		- Fixed removed comments red background in night mode
+		- Fixed text indent of new messages notification
 		
 --------------------------------------------------------------------------*/
 
@@ -2328,7 +2329,7 @@ form#image-upload.image-upload {
 	left: 0px;
 	right: 0px;
 	content: "YOU HAVE NEW MESSAGES";
-	text-indent: 30px;
+	text-indent: 20px;
 	font-size: 11px;
 	line-height: 1;
 	-webkit-transform: translateY(112px);
