@@ -27,6 +27,7 @@
 		- Stole r/MadokaMagica's flair positioning
 		- Restored stock flair selector (fixed dark mode too)
 		- Fixed RES night mode buttons color
+		- Fixed removed comments red background in night mode
 		
 --------------------------------------------------------------------------*/
 
@@ -589,6 +590,9 @@ body:not(.search-page) .menuarea {
  }
 
 /*COMMENTS PAGE*/
+.comment.spam > .child, .message.spam > .child {background-color: unset !important}
+
+.res-nightmode.res-commentBoxes .comment.spam {background-image: linear-gradient(#633636, #633636) !important}
 
 .tagline .score {font-weight: bold;}
 
@@ -2596,14 +2600,7 @@ color.
     border:1px solid #333 !important
 }
 
-.res-nightmode .commentarea .child .thing.comment,
-.res-nightmode .commentarea .child .thing.comment .comment .comment,
-.res-nightmode .commentarea .child .thing.comment .comment .comment .comment .comment,
-.res-nightmode .commentarea .child .thing.comment .comment .comment .comment .comment .comment .comment,
-.res-nightmode .commentarea .child .thing.comment .comment .comment .comment .comment .comment .comment .comment .comment,
-.res-nightmode .commentarea .child .thing.comment .comment .comment .comment .comment .comment .comment .comment .comment .comment .comment {
-    background: #222 !important;
-}
+
 
 .res-nightmode .commentarea .thing,
 .res-nightmode .commentarea .child .thing.comment .comment, 
