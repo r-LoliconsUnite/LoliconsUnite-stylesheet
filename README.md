@@ -10,18 +10,18 @@
 # Major changelog:
 Mostly fixing res-nightmode and base theme
 - Pink color scheme
-- Tab menu on bottom
-- Restore stock userbar
-- Restore stock edit buttom
+- Tab menu on bottom (hot, new, top, etc)
+- Restore stock userbar (that shows subreddits on the top)
+- Restore stock edit buttom (in the top right)
 - Fixed comment box and options
-- Subsribe button on top of subscriber count
+- Subscribe button on top of subscriber count
 - Fixed RES subscribe button in post (in night mode as well)
 - Fixed number of views in post
-- Removed "speaking officially"
+- Removed "speaking officially" (from mods and admins)
 - Stole r/MadokaMagica's flair positioning
 - Restored stock flair selector (fixed dark mode too)
-- Fixed RES night mode buttons color
-- Fixed removed comments red background in night mode
+- Fixed RES night mode buttons color (like submit)
+- Fixed removed comments' red background in night mode
 - Fixed text indent of new messages notification
 - Fixed rules page background margins
 - Make post bottom border less noticable in dark mode
