@@ -26,4 +26,4 @@ Mostly fixing res-nightmode and base theme
 - Fixed removed comments red background in night mode
 
 ## License
-The code is unlicensed and in public domain
+The code is Unlicensed and in public domain
