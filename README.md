@@ -1,7 +1,7 @@
 # r/LoliconsUnite stylesheet
 https://www.reddit.com/r/loliconsunite/
 
-https://www.reddit.com/r/loliconsunite/about/stylesheet
+For internal mod testing purposes: https://www.reddit.com/r/LoliTest/ (might be privated)
 
 https://discord.gg/9C5Fbek (Use subreddit for most updated link)
 
