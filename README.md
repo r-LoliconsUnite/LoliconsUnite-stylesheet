@@ -23,6 +23,8 @@ Mostly fixing res-nightmode and base theme
 - Fixed RES night mode buttons color
 - Fixed removed comments red background in night mode
 - Fixed text indent of new messages notification
+- Fixed rules page background margins
+- Make post bottom border less noticable in dark mode
 
 # License
 The code is Unlicensed and in public domain
