@@ -33,6 +33,7 @@ Mostly fixing res-nightmode and base theme
 - Fixed post flair color in night code
 - Stole more of r/MadokaMagica's flairs to fix ours
 - Fixed child comments background color
+- Removed the wiki's green links in night mode 
 
 # License
 The code is Unlicensed and in public domain
