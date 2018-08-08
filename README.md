@@ -30,7 +30,7 @@ Mostly fixing res-nightmode and base theme
 - Fixed blue button in search page in day mode only
 - Fixed title colors
 - Removed pink comment button
-
+- Fixed post flair color in night code
 
 # License
 The code is Unlicensed and in public domain
