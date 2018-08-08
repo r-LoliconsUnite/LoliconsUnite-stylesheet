@@ -3,7 +3,9 @@
 		Lolicons Unite subreddit theme
 		For r/loliconsunite
 		Maintained by u/twenty_characters_su
-		Open source in github
+		
+		Free and open source in github 
+		Changelog in github
 		https://github.com/r-LoliconsUnite/LoliconsUnite-stylesheet
 		
 		
@@ -13,31 +15,6 @@
 		Developer Version
 		Base theme last modified on January 20, 2016
 		
-		
-		Major changes:
-		- Pink color scheme
-		- Tab menu on bottom
-		- Restore stock userbar
-		- Restore stock edit buttom
-		- Fixed comment box and options
-		- Subsribe button on top of subscriber count
-		- Fixed RES subscribe button in post (in night mode as well)
-		- Fixed number of views in post
-		- Removed "speaking officially"
-		- Stole r/MadokaMagica's flair positioning
-		- Restored stock flair selector (fixed dark mode too)
-		- Fixed RES night mode buttons color
-		- Fixed removed comments red background in night mode
-		- Fixed text indent of new messages notification
-		- Fixed rules page background margins
-		- Make post bottom border less noticable in dark mode
-		- Fixed flair alignment in search page
-		- Fixed search page in night mode
-		- Fixed blue button in search page in day mode only
-		- Semi-fixed stickied posts title color in night mode
-		- Fixed title colors
-		- Removed pink comment button
-		- Fixed visited titles's colors
 		
 --------------------------------------------------------------------------*/
 
@@ -574,6 +551,12 @@ body {font-family: Roboto, Lato, sans-serif;}
 
 
 /*GENERAL RES FIXES*/
+
+.res-nightmode .flair, .res-nightmode .linkflairlabel {
+	color: #FFF !important;
+	background-color: #e86280 !important;
+}
+
 
 .livePreview, .livePreview .md {text-transform: none;}
 
