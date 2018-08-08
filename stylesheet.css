@@ -35,6 +35,8 @@
 		- Fixed search page in night mode
 		- Fixed blue button in search page in day mode only
 		- Semi-fixed stickied posts title color in night mode
+		- Fixed title colors
+		- Removed pink comment button
 		
 --------------------------------------------------------------------------*/
 
@@ -571,7 +573,6 @@ body {font-family: Roboto, Lato, sans-serif;}
 
 
 /*GENERAL RES FIXES*/
-.res-nightmode .entry.res-selected .md-container > .md p {color: #fff !important}
 
 .livePreview, .livePreview .md {text-transform: none;}
 
@@ -2444,7 +2445,7 @@ color.
 
 		{background:#e86280}
  
-		.commentarea span.score, .comment .flat-list li a:hover,.comment .flat-list li a[onclick*=reply],.commentNavSortType:hover,.commentarea .menuarea .toggle a:hover,.entry .buttons .may-blank,.error,.link .domain a:hover,.link .entry .buttons li a:hover,.loadFlat:hover,.submit-page .roundfield a,.thing .title,#progressIndicator a#NERStaticLink,.deepthread a,.deepthread::after,.linefield .title
+		.commentarea span.score, .comment .flat-list li a:hover,.comment .flat-list li a[onclick*=reply],.commentNavSortType:hover,.commentarea .menuarea .toggle a:hover,.error,.link .domain a:hover,.link .entry .buttons li a:hover,.loadFlat:hover,.submit-page .roundfield a,#progressIndicator a#NERStaticLink,.deepthread a,.deepthread::after,.linefield .title
 
 		{color:#e86280}
  
