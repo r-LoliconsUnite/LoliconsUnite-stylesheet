@@ -37,6 +37,7 @@
 		- Semi-fixed stickied posts title color in night mode
 		- Fixed title colors
 		- Removed pink comment button
+		- Fixed visited titles's colors
 		
 --------------------------------------------------------------------------*/
 
@@ -2535,7 +2536,6 @@ color.
 
 .res-nightmode .entry .buttons li a {color: #ccc!important}
 
-.res-nightmode .thing .title {color: #fff !important}
 
 .res-nightmode input[name="uh"] ~ a:after {display: none}
 
