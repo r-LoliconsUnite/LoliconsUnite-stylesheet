@@ -5,7 +5,7 @@
 - Discord (use link in subreddit for most updated one): https://discord.gg/9C5Fbek
 
 - I have only basic knowledge of css and github. Please help us review the code!
-- Contact us using modmail or via discord (most reliable way)
+- Contact us using modmail or via discord
 
 # Major changelog:
 Mostly fixing res-nightmode and base theme
