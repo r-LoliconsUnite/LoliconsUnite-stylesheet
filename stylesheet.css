@@ -18,6 +18,43 @@
 		
 --------------------------------------------------------------------------*/
 
+/** r/anime's Announcement banner **/
+.sitetable {
+    padding-top: 40px;
+}
+.side .md blockquote:first-child {
+	position: absolute;
+	top: 230px;
+	left: 0;
+	margin: 10px;
+	padding: 0 10px;
+	background: #e86280;
+	border-left: 0;
+	border-radius: 5px;
+	color: #FFF;
+	text-align: center;
+	height: 35px;
+	display: table;
+	width: calc(100% - 361px);
+}
+.side .md blockquote:first-child p {
+	display: table-cell;
+	vertical-align: middle;
+	text-align: center;
+	position: static;
+	margin: 0;
+	padding: 0;
+	font-size: 13px;
+	line-height: 15px;
+	font-weight: 700;
+}
+.side .md blockquote:first-child a {
+	text-decoration: underline;
+	color: inherit;
+}
+.side .md blockquote:first-child a:hover {color: #EEE}
+
+
 
 /*SUBREDDIT LOGO*/
 span.pagename.redditname a {
@@ -32,6 +69,7 @@ span.pagename.redditname a {
 	position: absolute;
 	top: 40px;
  }
+
 
 /*HEADER C EXCLUSIVE CODE*/
 
