@@ -32,6 +32,7 @@ Mostly fixing res-nightmode and base theme
 - Removed pink comment button
 - Fixed post flair color in night code
 - Stole more of r/MadokaMagica's flairs to fix ours
+- Fixed child comments background color
 
 # License
 The code is Unlicensed and in public domain
