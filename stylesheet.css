@@ -2587,6 +2587,14 @@ color.
 }
 
 
+.res-nightmode .commentarea .child .thing.comment,
+.res-nightmode .commentarea .child .thing.comment .comment .comment,
+.res-nightmode .commentarea .child .thing.comment .comment .comment .comment .comment,
+.res-nightmode .commentarea .child .thing.comment .comment .comment .comment .comment .comment .comment,
+.res-nightmode .commentarea .child .thing.comment .comment .comment .comment .comment .comment .comment .comment .comment,
+.res-nightmode .commentarea .child .thing.comment .comment .comment .comment .comment .comment .comment .comment .comment .comment .comment {
+    background: #222 !important;
+}
 
 .res-nightmode .commentarea .thing,
 .res-nightmode .commentarea .child .thing.comment .comment, 
@@ -2596,6 +2604,7 @@ color.
 .res-nightmode .commentarea .child .thing.comment .comment .comment .comment .comment .comment .comment .comment .comment .comment {
        background: #292929 !important;
 }
+
 
 
 .c-btn-primary {background-color: #e86280 !important; border:0 !important}
