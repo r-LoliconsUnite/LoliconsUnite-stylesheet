@@ -2557,10 +2557,6 @@ color.
 
 .res-nightmode body:not(.comments-page) div.content .entry,.res-nightmode .md hr {border-bottom: 1px solid #474747}
 
-.res-nightmode .content .md a {color: #a4d11b !important}
-
-.res-nightmode .titlebox a {color: #a4d11b}
-
 .res-nightmode .link.promotedlink.promoted {background-color: #565656}
 
 .res-nightmode span.score,.res-nightmode .sidecontentbox .more a {color: #ccc!important}
