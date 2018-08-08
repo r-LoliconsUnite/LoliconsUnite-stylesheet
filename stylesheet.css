@@ -27,6 +27,7 @@
 	top: 230px;
 	left: 0;
 	margin: 10px;
+margin-left: 15px;
 	padding: 0 10px;
 	background: #e86280;
 	border-left: 0;
@@ -35,7 +36,7 @@
 	text-align: center;
 	height: 35px;
 	display: table;
-	width: calc(100% - 361px);
+	width: calc(100% - 370px);
 }
 .side .md blockquote:first-child p {
 	display: table-cell;
