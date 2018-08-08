@@ -2888,14 +2888,28 @@ color: #FFF !important
     background: url(%%spritesheet-flair-final%%) no-repeat -9999px;
     border: 0;
     padding: 0;
-	float: left !important;
 }
+
+.titlebox .tagline .flair {
+    line-height: 37px;
+    text-indent: 50px;
+    float: left;
+    white-space: nowrap !important;
+    text-wrap: nowrap !important;
+    /*text-shadow: 0 0 3px black;*/
+    color: #f20dad;
+}
+
+.flairoptionpane .flair {
+    float: none !important;
+}
+
 
 /*push down the three links so flair doesn't cover it*/
 .side .usertext {margin-top: 40px}
 
 .link .flair,.entry .tagline .flair {
-    float: left !important;
+    float: left;
     line-height: 40px;
     text-indent: 55px;
     color: #f20dad;
