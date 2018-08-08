@@ -19,9 +19,7 @@
 --------------------------------------------------------------------------*/
 
 /** r/anime's Announcement banner **/
-.sitetable {
-    padding-top: 40px;
-}
+
 .side .md blockquote:first-child {
 	position: absolute;
 	top: 230px;
@@ -1685,7 +1683,7 @@ body:not(.submit-page) .tabmenu::after {
 /* BODY MARGINS */
 div.content {
 	border-radius: 4px;
-	margin: 15px 335px 10px 16px;
+	margin: 60px 335px 10px 16px;
 	border: 1px solid #e1e1e1;
 	background-color: #fff;
 	font-size: 12px;
