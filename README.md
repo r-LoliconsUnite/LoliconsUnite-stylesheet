@@ -28,6 +28,8 @@ Mostly fixing res-nightmode and base theme
 - Fixed flair alignment in search page
 - Fixed search page in night mode
 - Fixed blue button in search page in day mode only
+- Fixed title colors
+- Removed pink comment button
 
 
 # License
