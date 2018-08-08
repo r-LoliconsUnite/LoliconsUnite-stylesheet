@@ -34,6 +34,7 @@
 		- Fixed flair alignment in search page
 		- Fixed search page in night mode
 		- Fixed blue button in search page in day mode only
+		- Semi-fixed stickied posts title color in night mode
 		
 --------------------------------------------------------------------------*/
 
@@ -570,6 +571,8 @@ body {font-family: Roboto, Lato, sans-serif;}
 
 
 /*GENERAL RES FIXES*/
+.res-nightmode .entry.res-selected .md-container > .md p {color: #fff !important}
+
 .livePreview, .livePreview .md {text-transform: none;}
 
 .RESDialogSmall.livePreview {
@@ -2530,8 +2533,6 @@ color.
 .res-nightmode div.content {background-color: #333;border:none}
 
 .res-nightmode .entry .buttons li a {color: #ccc!important}
-
-.res-nightmode .thing .title:visited,.res-nightmode .commentarea .menuarea .toggle a,.res-nightmode .commentNavSortType,.res-nightmode .dropdown.lightdrop .selected {color: #ababab !important;}
 
 .res-nightmode .thing .title {color: #fff !important}
 
