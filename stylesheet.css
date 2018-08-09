@@ -3138,8 +3138,15 @@ color: #FFF !important
 }
 
 
-/*no banner theme*/
+/*static banner theme*/
 
+html[lang="st"] #header { 
+   background-size: auto 225px; 
+   background-repeat: no-repeat;
+   animation-duration: 0s;
+}
+
+/*LEGACY static banner theme*/
 html[lang="nb"] #header { 
    background : url(%%banner%%);
    background-size: auto 225px; 
