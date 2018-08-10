@@ -117,10 +117,7 @@ a {
  }
 
 /*--- Tabs - Hide unimportant ones  ---*/
-#header .tabmenu li:nth-of-type(8) {
-	display: none;
-	visibility: hidden;
- }
+
 
 /*--- Hide Promoted (Tab 8) --- */
 #header .tabmenu li:nth-of-type(9) {
@@ -143,7 +140,7 @@ a {
 	top: 135px;
 	background: none;
  }
-
+ 
 	#header-bottom-left .tabmenu li a {
 		background: rgba(0, 0, 0, .4);
 		padding: 2px 16px;
@@ -154,7 +151,7 @@ a {
 		font-size: 13px;
 		font-weight: normal;
 		text-transform: uppercase;
-		text-shadow: 0px 3px 4px rgba(0, 0, 0, 1);
+		text-shadow: 0px 0px 4px rgba(0, 0, 0, 1);
 	 }
 
 	#header-bottom-left .tabmenu li.selected a {
@@ -175,7 +172,6 @@ a {
 		font-weight: normal;
 		transition: all 0.3s ease 0s;
 	 }
-#header .tabmenu li a {text-shadow: 0px 3px 4px rgba(0, 0, 0, 1);}
 
 #header-img {
     visibility: visible;
