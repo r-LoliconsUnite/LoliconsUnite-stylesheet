@@ -116,18 +116,6 @@ a {
 	border-bottom: 1px solid #fff;
  }
 
-/*--- Tabs - Hide unimportant ones  ---*/
-
-
-/*--- Hide Promoted (Tab 8) --- */
-#header .tabmenu li:nth-of-type(9) {
-	display: none;
-	visibility: hidden;
- }
-
-/*--- Hide View Images (Tab 9) ---*/
-/*--- End Tabs - Hide unimportant ones  ---*/
-
 /*TABMENU*/
 /* MENU */
 .tabmenu {margin-top: 60px;}
@@ -2501,11 +2489,7 @@ color.
 /*END CHANGE COLOR SCHEME*/
 
 
-/*
-  EnTypo v0.2 (http://www.reddit.com/r/EnTypo)
-  Modified for Minimaluminiumalism
-  Copyright (c) 2015 Timur Kuzhagaliyev (TimboKZ)
-*/
+
 
 /*DARK MODE*/
 
