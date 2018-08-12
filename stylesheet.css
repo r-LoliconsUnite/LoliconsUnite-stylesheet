@@ -690,11 +690,9 @@ body:not(.search-page) .menuarea {
 	line-height: inherit;
 	font-size: 11px;
 	box-shadow: none;
-	color: #666;
 	border: none;
 	padding: 0;
 	margin-top: 3px;
-	background-color: transparent;
 	background-image: none;
 	margin-left: -12px;
  }
