@@ -2489,7 +2489,11 @@ color.
 /*END CHANGE COLOR SCHEME*/
 
 
-
+/*
+  EnTypo v0.2 (http://www.reddit.com/r/EnTypo)
+  Modified for Minimaluminiumalism
+  Copyright (c) 2015 Timur Kuzhagaliyev (TimboKZ)
+*/
 
 /*DARK MODE*/
 
@@ -2645,8 +2649,6 @@ color.
 .res-nightmode .md pre {padding: 0;background-color:transparent!important; border: none;}
 
 .res-nightmode .wiki-page div.content {background-color: transparent;border:none}
-
-.res-nightmode .livePreview .md p {color: #000}
 
 .res-nightmode .wiki-page .infobar {background: none;border:none}
 
