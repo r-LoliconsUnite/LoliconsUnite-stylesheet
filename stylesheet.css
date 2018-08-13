@@ -359,8 +359,6 @@ img.RESImage {border-radius: 12px;}
 
 button[disabled] {display:none;}
 
-ul.report-reasons {background-color: transparent; text-transform: uppercase; border: none;}
-
 .content .entry .buttons li.reported-stamp, 
 body .content .stickied .entry .buttons li.reported-stamp,
 body .content .over18 .entry .buttons li.reported-stamp {
