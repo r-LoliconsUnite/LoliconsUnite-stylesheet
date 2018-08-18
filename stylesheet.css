@@ -650,7 +650,6 @@ body:not(.search-page) .menuarea {
 .comments-page .content .infobar {
 	border: 0px none;
 	background: #fff;
-	max-width: 300px;
 	padding: 10px 20px;
 	text-transform: uppercase;
 	font-weight: bold;
