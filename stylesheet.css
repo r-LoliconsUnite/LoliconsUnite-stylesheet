@@ -1661,9 +1661,10 @@ body:not(.submit-page) .tabmenu::after {
  }
 
 /* BODY MARGINS */
+/* WHEN DISABLING CSS ANNOUNCEMENT BANNER, CHANGE HERE FOR PAGE MARGINS */
 div.content {
 	border-radius: 4px;
-	margin: 60px 335px 10px 16px;
+	margin: 15px 335px 10px 16px; /* 15px for no banner, 60px for banner */
 	border: 1px solid #e1e1e1;
 	background-color: #fff;
 	font-size: 12px;
