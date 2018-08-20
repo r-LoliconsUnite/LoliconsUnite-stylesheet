@@ -213,12 +213,6 @@ karmaZ_
 
 .thing .title:visited {color: #331f6d;}
 
-.flairselector li:hover {
-    width: 400px !important;
-    background-color: rgb(221, 221, 221);
-    border-radius: 20px;
-}
-
 .flair {cursor: default;}
 
 .loadFlat {
