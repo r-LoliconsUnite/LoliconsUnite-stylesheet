@@ -8,6 +8,8 @@
 - Contact us using modmail or via discord
 
 # Major changelog:
+[View full changelog here](https://github.com/r-LoliconsUnite/LoliconsUnite-stylesheet/commits/master/stylesheet.css)
+
 Mostly fixing res-nightmode and base theme
 - Pink color scheme
 - Tab menu on bottom (hot, new, top, etc)
@@ -35,6 +37,10 @@ Mostly fixing res-nightmode and base theme
 - Fixed child comments background color
 - Removed the wiki's green links in night mode
 - Stole r/anime's announcement banner
+- Static banner version now uses the current banner sans animations
+- Restored RES filter & show images button, & fixed shadow
+- Fixed comment preview text color in night mode
+- Reformed flair system
 
 # License
 The code is Unlicensed and in public domain
