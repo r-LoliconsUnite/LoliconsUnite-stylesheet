@@ -2904,11 +2904,7 @@ color: #FFF !important
 
 
 /*spritesheet flair*/
-.flair {
-    background: url(%%spritesheet-flair-final%%) no-repeat -9999px;
-    border: 0;
-    padding: 0;
-}
+
 
 .titlebox .tagline .flair {
     line-height: 37px;
@@ -2937,183 +2933,174 @@ color: #FFF !important
     display: inline !important;
 }
 
-
-.flair-01 {
-    width: 50px;
-    height: 50px;
-    background-position: 0 0;
-}
-
-.flair-02 {
-    width: 50px;
-    height: 50px;
-    background-position: 0 -50px;
-}
-
-.flair-03 {
-    width: 50px;
-    height: 50px;
-    background-position: 0 -100px;
-}
-
-.flair-04 {
-    width: 50px;
-    height: 50px;
-    background-position: 0 -150px;
-}
-
-.flair-05 {
-    width: 50px;
-    height: 50px;
-    background-position: 0 -200px;
-}
-
-.flair-06 {
-    width: 50px;
-    height: 50px;
-    background-position: 0 -250px;
-}
-
-.flair-07 {
-    width: 50px;
-    height: 50px;
-    background-position: 0 -300px;
-}
-
-.flair-08 {
-    width: 50px;
-    height: 50px;
-    background-position: 0 -350px;
-}
-
-.flair-09 {
-    width: 50px;
-    height: 50px;
-    background-position: 0 -400px;
-}
-
-.flair-10 {
-    width: 50px;
-    height: 50px;
-    background-position: 0 -450px;
-}
-
-.flair-11 {
-    width: 50px;
-    height: 50px;
-    background-position: 0 -500px;
-}
-
-.flair-12 {
-    width: 50px;
-    height: 50px;
-    background-position: 0 -550px;
-}
-
-.flair-13 {
-    width: 50px;
-    height: 50px;
-    background-position: 0 -600px;
-}
-
-
-
-/*1 year anniversary flairs*/
-
-.flair-14 {
-    width: 50px;
-    height: 50px;
-    background-position: 0 -650px;
-}
-.flair-15 {
-    width: 50px;
-    height: 50px;
-    background-position: 0 -700px;
-}
-
-.flair-16 {
-    width: 50px;
-    height: 50px;
-    background-position: 0 -750px;
-}
-
-.flair-17 {
-    width: 50px;
-    height: 50px;
-    background-position: 0 -800px;
-}
-
-.flair-18 {
-    width: 50px;
-    height: 50px;
-    background-position: 0 -850px;
-}
-
-.flair-19 {
-    width: 50px;
-    height: 50px;
-    background-position: 0 -900px;
+.flair {
+    background: url(%%spritesheet-flair%%) no-repeat -9999px;
+    border: 0;
+    padding: 0;
 }
 
 .flair-20 {
     width: 50px;
-    height: 50px;
-    background-position: 0 -950px;
-}
-
-.flair-21 {
-    width: 50px;
-    height: 50px;
-    background-position: 0 -1000px;
-}
-
-.flair-22 {
-    width: 50px;
-    height: 50px;
-    background-position: 0 -1050px;
-}
-
-.flair-23 {
-    width: 50px;
-    height: 50px;
-    background-position: 0 -1100px;
-}
-
-.flair-24 {
-    width: 50px;
-    height: 50px;
-    background-position: 0 -1150px;
-}
-
-.flair-25 {
-    width: 50px;
-    height: 50px;
-    background-position: 0 -1200px;
-}
-
-.flair-26 {
-    width: 50px;
-    height: 50px;
-    background-position: 0 -1250px;
-}
-
-.flair-27 {
-    width: 50px;
-    height: 50px;
-    background-position: 0 -1300px;
-}
-
-.flair-28 {
-    width: 50px;
-    height: 50px;
-    background-position: 0 -1350px;
-}
-
-.flair-29 {
-    width: 50px;
     height: 41px;
-    background-position: 0 -1400px;
+    background-position: 0 0;
 }
+
+.flair-chino {
+    width: 50px;
+    height: 50px;
+    background-position: 0 -41px;
+}
+
+.flair-illya {
+    width: 50px;
+    height: 50px;
+    background-position: 0 -91px;
+}
+
+.flair-illyaheh {
+    width: 50px;
+    height: 50px;
+    background-position: 0 -141px;
+}
+
+.flair-kanna {
+    width: 50px;
+    height: 50px;
+    background-position: 0 -191px;
+}
+
+.flair-kannanom {
+    width: 50px;
+    height: 50px;
+    background-position: 0 -241px;
+}
+
+.flair-kobato {
+    width: 50px;
+    height: 50px;
+    background-position: 0 -291px;
+}
+
+.flair-kotoha {
+    width: 50px;
+    height: 50px;
+    background-position: 0 -341px;
+}
+
+.flair-kuro {
+    width: 50px;
+    height: 50px;
+    background-position: 0 -391px;
+}
+
+.flair-kyokoheh {
+    width: 50px;
+    height: 50px;
+    background-position: 0 -441px;
+}
+
+.flair-kyokothink {
+    width: 50px;
+    height: 50px;
+    background-position: 0 -491px;
+}
+
+.flair-megulewd {
+    width: 50px;
+    height: 50px;
+    background-position: 0 -541px;
+}
+
+.flair-megumin {
+    width: 50px;
+    height: 50px;
+    background-position: 0 -591px;
+}
+
+.flair-miyu {
+    width: 50px;
+    height: 50px;
+    background-position: 0 -641px;
+}
+
+.flair-miyusmug {
+    width: 50px;
+    height: 50px;
+    background-position: 0 -691px;
+}
+
+.flair-nep {
+    width: 50px;
+    height: 50px;
+    background-position: 0 -741px;
+}
+
+.flair-original {
+    width: 50px;
+    height: 50px;
+    background-position: 0 -791px;
+}
+
+.flair-ruby {
+    width: 50px;
+    height: 50px;
+    background-position: 0 -841px;
+}
+
+.flair-sacchan {
+    width: 50px;
+    height: 50px;
+    background-position: 0 -891px;
+}
+
+.flair-sagiri {
+    width: 50px;
+    height: 50px;
+    background-position: 0 -941px;
+}
+
+.flair-sapphire {
+    width: 50px;
+    height: 50px;
+    background-position: 0 -991px;
+}
+
+.flair-shinobu {
+    width: 50px;
+    height: 50px;
+    background-position: 0 -1041px;
+}
+
+.flair-shiro {
+    width: 50px;
+    height: 50px;
+    background-position: 0 -1091px;
+}
+
+.flair-smugumin {
+    width: 50px;
+    height: 50px;
+    background-position: 0 -1141px;
+}
+
+.flair-taiga {
+    width: 50px;
+    height: 50px;
+    background-position: 0 -1191px;
+}
+
+.flair-tsukiko {
+    width: 50px;
+    height: 50px;
+    background-position: 0 -1241px;
+}
+
+.flair-yui {
+    width: 50px;
+    height: 50px;
+    background-position: 0 -1291px;
+}
+
 
 
 /*static banner theme*/
