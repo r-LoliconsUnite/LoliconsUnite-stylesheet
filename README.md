@@ -2,7 +2,7 @@
 
 - For testing purposes (might be private sometimes): [r/LoliTest](https://www.reddit.com/r/LoliTest/)
     - This code may appear in first r/LoliTest, then r/LoliconsUnite
-- Discord (use link in subreddit for most updated one): https://discord.gg/9C5Fbek
+- Discord (use link in subreddit for most updated one): https://discord.gg/4SAf2xY
 
 - I have only basic knowledge of css and github. Please help us review the code!
 - Contact us using modmail or via discord
