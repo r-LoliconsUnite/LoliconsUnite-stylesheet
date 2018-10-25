@@ -18,6 +18,7 @@
 		
 --------------------------------------------------------------------------*/
 
+
 /** r/anime's Announcement banner **/
 
 .side .md blockquote:first-child {
@@ -2656,7 +2657,8 @@ color.
 
 .res-nightmode .side .titlebox {color: #fff}
 
-.res-nightmode ::-moz-selection {background: #666;color:#fff}
+.res-nightmode ::-moz-selection {background-color: #A9D1FF !important;color: #000;}
+::-moz-selection {background-color: #A9D1FF !important;color: #000;}
 
 .res-nightmode .linkinfo {background-color: #303030}
 
@@ -2836,7 +2838,7 @@ read message by Hakan Yalcin from the Noun Project
 /*HEADER*/
 
 #header { 
-   background : url(%%1kbanner%%);
+   background : url(%%10kbanner%%);
    background-size: auto 225px; 
 }
 /*END HEADER*/
