@@ -1,3 +1,4 @@
+# Depreciated, please use https://github.com/r-LoliconsUnite/UnitedLolicons-stylesheet
 # [r/LoliconsUnite](https://www.reddit.com/r/loliconsunite/) stylesheet
 
 - For testing purposes (might be private sometimes): [r/LoliTest](https://www.reddit.com/r/LoliTest/)
